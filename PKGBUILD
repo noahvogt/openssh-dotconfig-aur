@@ -9,7 +9,7 @@
 
 pkgname=openssh-dotconfig
 pkgver=9.7p1
-pkgrel=1
+pkgrel=2
 pkgdesc='Premier connectivity tool for remote login with the SSH protocol - but moved $HOME/.ssh to $HOME/.config/ssh'
 arch=('x86_64')
 url='https://www.openssh.com/portable.html'
